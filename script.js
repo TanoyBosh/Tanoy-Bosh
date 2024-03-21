@@ -16,7 +16,7 @@ function typeWriter() {
     if (charIndex < currentText.length) {
         document.querySelectorAll('.type')[textIndex].textContent += currentText.charAt(charIndex);
         charIndex++;
-        typingTimeout = setTimeout(typeWriter, 200); // Speed of typing (milliseconds)
+        typingTimeout = setTimeout(typeWriter, 100); // Speed of typing (milliseconds)
     } else {
         charIndex = 0;
         textIndex++;

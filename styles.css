@@ -35,58 +35,58 @@ header {
 
 /* Section Styles */
 section {
-    padding: 50px 0;
-    text-align: center;
+  padding: 50px 0;
+  text-align: center;
 }
 
 .navbar {
-    background-color: #f9f9f9;
-    color: white;
-  }
-  
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .logo {
-    font-size: 30px;
-    font-weight: bold;
-    text-decoration: none;
-    color: black;
-    padding-left: 10px;
-  }
-  
-  .nav-links {
-    list-style: none;
-    margin: 0.5rem;
-    padding: 1%;
-    text-align: justify;  
+  background-color: #f9f9f9;
+  color: white;
 }
-  
-  .nav-links li {
-    display: inline-block;
-    margin-right: 20px;
-  }
-  
-  .nav-links li:last-child {
-    margin-right: 0;
-  }
-  
-  .nav-links li a {
-    text-decoration: none;
-    color: black;
-    font-size: 18px;
-    padding: 5%;
-  }
-  
-  .nav-links li a:hover {
-    border-radius: 5px;
-    background-color: #aeaeae;
-}  
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  padding-left: 10px;
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0.5rem;
+  padding: 1%;
+  text-align: justify;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.nav-links li:last-child {
+  margin-right: 0;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  padding: 5%;
+}
+
+.nav-links li a:hover {
+  border-radius: 5px;
+  background-color: #aeaeae;
+}
 
 /* Section container */
 #skills {
