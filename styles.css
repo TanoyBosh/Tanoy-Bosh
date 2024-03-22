@@ -70,6 +70,7 @@ section {
 .nav-links li {
   display: inline-block;
   margin-right: 20px;
+  padding: 5px;
 }
 
 .nav-links li:last-child {
