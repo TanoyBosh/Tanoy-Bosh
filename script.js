@@ -1,5 +1,5 @@
 const texts = [
-    "Hello World!",
+    "Hello!",
     "I'm Tanoy Bosh",
     "a Software Engineer"
 ];
